@@ -1,2 +1,3 @@
-# animal-Shogi
+# animal-shogi
+
 アニマル将棋のリポジトリ
